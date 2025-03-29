@@ -1,0 +1,10 @@
+/home/ruhi/madhurima-pim-compiler/build/CMakeFiles/intrinsics_gen.dir
+/home/ruhi/madhurima-pim-compiler/build/CMakeFiles/omp_gen.dir
+/home/ruhi/madhurima-pim-compiler/build/CMakeFiles/acc_gen.dir
+/home/ruhi/madhurima-pim-compiler/build/CMakeFiles/edit_cache.dir
+/home/ruhi/madhurima-pim-compiler/build/CMakeFiles/rebuild_cache.dir
+/home/ruhi/madhurima-pim-compiler/build/src/CMakeFiles/pim-compiler.dir
+/home/ruhi/madhurima-pim-compiler/build/src/CMakeFiles/edit_cache.dir
+/home/ruhi/madhurima-pim-compiler/build/src/CMakeFiles/rebuild_cache.dir
+/home/ruhi/madhurima-pim-compiler/build/test/CMakeFiles/edit_cache.dir
+/home/ruhi/madhurima-pim-compiler/build/test/CMakeFiles/rebuild_cache.dir
